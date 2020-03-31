@@ -1,5 +1,5 @@
 //
-var imagenames = ["abaco", "acino", "asino", "baita", "baule", "boato", "buono", "cuoco", "cuore", "daino", "dieci", "faina", "fiaba"];
+var imagenames = ["fiala", "fiato", "fieno", "fiore", "fiume", "fuoco", "isola", "leone", "liana", "miele", "nuoto", "paese", "paura"];
 var lastrng = 0;
 var imagerng;
 var correct;
